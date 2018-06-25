@@ -923,7 +923,7 @@ Note:
 
 Note:
 * Les gens ont parfois peur de git
-
+* FIN
 
 
 ![image](images/end.gif)
