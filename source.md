@@ -810,7 +810,7 @@ Note:
   * pre-commit
   * prepare-commit-msg, commit-msg
   * post-commit
-  * pre-rebase, post-chechout, post-merge
+  * pre-rebase, post-checkout, post-merge
 * Hooks serveur
   * pre-receive, post-receive
   * update
