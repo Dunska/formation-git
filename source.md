@@ -795,7 +795,7 @@ $ git config --global merge.tool vimdiff
 
 * Pas de working directory
 * Extension .git en général
-* Ne peut pas être éditer directement
+* Ne peut pas être édité directement
 
 Note:
 * git pull --rebase = git config --global branch.autosetuprebase always
