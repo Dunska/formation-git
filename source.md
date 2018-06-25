@@ -280,7 +280,7 @@ $ git commit -A</code></pre>
 
 ## Checkout
 <pre><code class="bash">$ git checkout -- toto.json</code></pre>
-Permet d'annuler les modification du fichier en cours dans le workspace
+Permet d'annuler les modifications du fichier en cours dans le workspace
 
 <pre><code class="bash">$ git checkout 15be36c66a</code></pre>
 Permet de se placer sur un commit particulier
